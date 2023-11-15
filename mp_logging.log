@@ -1,0 +1,27 @@
+INFO:paramiko.transport:Connected (version 2.0, client OpenSSH_8.4p1)
+INFO:paramiko.transport:Authentication (password) successful!
+INFO:root:Установлено подключение по ssh к хосту 192.168.1.9
+INFO:root:В базу данных были добавлены следующие значения:
+os_type: GNU/Linux
+os_vers:Debian GNU/Linux 11 (bullseye)
+cpu_arch:x86_64
+kernel_vers: 5.10.0-8-amd64
+addr_host: 192.168.1.9
+INFO:paramiko.transport:Connected (version 2.0, client OpenSSH_9.3p2)
+INFO:paramiko.transport:Authentication (password) successful!
+INFO:root:Установлено подключение по ssh к хосту 192.168.1.67
+INFO:root:В базу данных были добавлены следующие значения:
+os_type: GNU/Linux
+os_vers:Kali GNU/Linux Rolling
+cpu_arch:x86_64
+kernel_vers: 6.3.0-kali1-amd64
+addr_host: 192.168.1.67
+INFO:paramiko.transport:Connected (version 2.0, client OpenSSH_8.2p1)
+INFO:paramiko.transport:Authentication (password) successful!
+INFO:root:Установлено подключение по ssh к хосту 192.168.1.77
+INFO:root:В базу данных были добавлены следующие значения:
+os_type: GNU/Linux
+os_vers:Ubuntu 20.04.6 LTS
+cpu_arch:x86_64
+kernel_vers: 5.15.0-88-generic
+addr_host: 192.168.1.77
