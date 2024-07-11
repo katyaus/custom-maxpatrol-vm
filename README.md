@@ -1,4 +1,4 @@
-# MaxPatrol VM
+# Custom MaxPatrol VM
 
 Интерфейс программы выглядит следующим образом:
 <img src="markdown/gui.png" alt="Интерфейс программы">
